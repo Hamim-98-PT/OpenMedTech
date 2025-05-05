@@ -1,0 +1,13 @@
+name: Deploy to GitHub Pages
+on:
+  push:
+    branches: [master] # or your preferred branch
+jobs:
+  deploy:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v4
+      - run: echo "Your build commands here"
+      - uses: actions/upload-pages-artifact@v2
+      - uses: actions/deploy-pages@v3
