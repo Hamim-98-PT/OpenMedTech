@@ -4,7 +4,7 @@
 # OpenMedTech
 
 [OpenMedTech](https://github.com/OpenMedTech-Lab/OpenMedTech-Lab.github.io)  
-Spend less time worrying about managing a website and citations, and more time running your lab.
+Spend less ebsite and citations, and more time running your lab.
 
 {%
   include button.html
