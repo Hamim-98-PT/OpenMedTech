@@ -3,9 +3,7 @@
 
 # OpenMedTech
 
-[OpenMedTech](https://github.com/OpenMedTech-Lab/OpenMedTech-Lab.github.io)  website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
-
+[OpenMedTech](https://github.com/OpenMedTech-Lab/OpenMedTech-Lab.github.io) is an international collaborative community dedicated to advancing medical technology through innovative open source solutions. Convenor of the OpenMedTech Lab is Dr Monzurul Alam. We bring together developers, engineers, healthcare professionals, enthusiasts, everyone to create impactful projects for the community. Anyone from anywhere is warmly welcome to contribute to our projects!
 {%
   include button.html
   type="docs"
