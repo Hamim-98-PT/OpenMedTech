@@ -1,8 +1,7 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-header: images/background.jpg
+title: OpenMedTech
+subtitle: by OpenMedTech
+description: 
 footer: images/background.jpg
 proofer: false
 
