@@ -1,3 +1,4 @@
+gem "github-pages", group: :jekyll_plugins
 GEM
   remote: https://rubygems.org/
   specs:
